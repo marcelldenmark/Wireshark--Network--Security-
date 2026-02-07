@@ -1,0 +1,21 @@
+# Wireshark Network Security Labs
+
+## Overview
+This repository contains hands-on network security analysis labs
+performed using Wireshark on macOS. The labs focus on real-world
+SOC-style traffic analysis, baseline establishment, and anomaly detection.
+
+## Tools Used
+- Wireshark (macOS)
+
+## Skills Demonstrated
+- Packet capture and analysis
+- DNS, TCP, and TLS traffic inspection
+- Baseline network behavior analysis
+- Security-focused documentation
+
+## Lab Structure
+- Baseline traffic capture
+- DNS traffic analysis
+- Suspicious pattern identification
+- Security assessment reporting
