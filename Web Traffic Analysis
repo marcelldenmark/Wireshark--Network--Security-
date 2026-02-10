@@ -1,9 +1,0 @@
-## Findings
-- Plaintext HTTP traffic was not observed
-- Web traffic primarily used HTTPS over TCP port 443
-- TLS-encrypted application data was identified
-- Normal TCP behavior observed including ACK, FIN, and occasional RST packets
-- No signs of abnormal latency or excessive retransmissions
-
-## Conclusion
-The capture demonstrates normal encrypted web communication. HTTPS traffic was successfully established and terminated using standard TCP session behavior, indicating healthy client-server interaction during browsing activity.
