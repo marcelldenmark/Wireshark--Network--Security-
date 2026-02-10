@@ -53,6 +53,12 @@ To observe and analyze normal network traffic patterns over time using Wireshark
 ## Conclusion
 This project demonstrates how network baselines can be established and compared to understand typical traffic behavior. Baseline analysis is a foundational cybersecurity skill, as deviations from normal patterns are often the first indicators of malicious activity.
 
+
 ---
 
-## Repository Structure
+## Skills Demonstrated
+- Network traffic analysis
+- Baseline creation and comparison
+- Wireshark packet capture and statistics analysis
+- Cybersecurity fundamentals
+- Technical documentation
