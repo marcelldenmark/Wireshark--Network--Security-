@@ -1,21 +1,44 @@
 # Wireshark Network Security Labs
 
 ## Overview
-This repository contains hands-on network security analysis labs
-performed using Wireshark on macOS. The labs focus on real-world
-SOC-style traffic analysis, baseline establishment, and anomaly detection.
+This repository contains hands-on network security analysis labs performed using Wireshark on macOS.  
+The projects focus on real-world SOC-style traffic analysis, baseline establishment, and anomaly detection.
+
+Each project builds foundational skills used by security analysts to inspect network traffic, identify suspicious behavior, and document findings clearly.
+
+---
 
 ## Tools Used
 - Wireshark (macOS)
 
+---
+
 ## Skills Demonstrated
-- Packet capture and analysis
-- DNS, TCP, and TLS traffic inspection
+- Packet capture and traffic analysis
+- DNS, TCP, TLS, and QUIC inspection
 - Baseline network behavior analysis
-- Security-focused documentation
+- Suspicious pattern identification
+- Security-focused technical documentation
+
+---
 
 ## Lab Structure
-- Baseline traffic capture
-- DNS traffic analysis
-- Suspicious pattern identification
-- Security assessment reporting
+
+### Project 1 – Web Traffic Analysis
+- Captured and analyzed HTTP, HTTPS, and encrypted traffic
+- Identified common protocols and communication patterns
+- Established familiarity with Wireshark filtering and inspection
+
+### Project 2 – DNS Investigation
+- Observed DNS queries and responses
+- Analyzed successful and failed DNS resolutions
+- Investigated NXDOMAIN responses and record types
+
+### Project 3 – Baseline Pattern Identification
+- Captured network traffic at different times of day
+- Established traffic baselines for comparison
+- Analyzed protocol usage, conversations, and traffic volume trends
+
+---
+
+## Repository Structure
