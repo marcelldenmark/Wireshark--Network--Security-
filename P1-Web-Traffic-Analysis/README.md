@@ -44,5 +44,10 @@ This project demonstrates foundational web traffic analysis skills using Wiresha
 
 ---
 
+## Skills Demonstrated
+- Packet capture and filtering
+- Web traffic inspection
+- Protocol analysis (HTTP, HTTPS, TCP, TLS)
+- Wireshark fundamentals
 
 
